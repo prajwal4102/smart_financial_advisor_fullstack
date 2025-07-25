@@ -1,6 +1,5 @@
 # Smart_Financial_Advisor
 Smart Financial Advisor is a fullstack application powered by Artifical Intelligence to provide you with investment advice based on your financial profile.
-\n
 -Demo video:[ https://drive.google.com/file/d/1vsXtQuNj5lcLPouzNSbFeekWbSHJJXrn/view?usp=sharing](https://drive.google.com/file/d/1updovpDlZZTRRby_wR6ozASRDE9JC4QM/view)
 ---
 
