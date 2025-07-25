@@ -10,12 +10,20 @@ Demo video: https://drive.google.com/file/d/1vsXtQuNj5lcLPouzNSbFeekWbSHJJXrn/vi
 
 ---
 # Screenshots
-<img width="990" height="687" alt="Screenshot 2025-07-25 043645" src="https://github.com/user-attachments/assets/6405995f-3e7c-4fae-9168-3c2b972b0781" />
-<img width="788" height="760" alt="Screenshot 2025-07-25 043721" src="https://github.com/user-attachments/assets/b78d2935-1ccc-454a-894b-35421a854048" />
-<img width="1882" height="937" alt="Screenshot 2025-07-25 043929" src="https://github.com/user-attachments/assets/5eb4625d-122e-4fec-b651-3310ff07edb4" />
-<img width="1796" height="931" alt="Screenshot 2025-07-25 043804" src="https://github.com/user-attachments/assets/9a879963-d372-4dbb-bccf-1ca47af2ada9" />
-<img width="1794" height="929" alt="Screenshot 2025-07-25 043814" src="https://github.com/user-attachments/assets/870033d8-3718-4d33-949c-4c90f03ab6f1" />
-<img width="1822" height="945" alt="Screenshot 2025-07-25 044055" src="https://github.com/user-attachments/assets/417a0636-9a2d-4176-84e1-0fde52296feb" />
+<img width="788" height="760" alt="Screenshot 2025-07-25 043721" src="https://github.com/user-attachments/assets/15cf0121-b151-491d-9029-d1e68189282c" />
+
+<img width="990" height="687" alt="Screenshot 2025-07-25 043645" src="https://github.com/user-attachments/assets/b2eb7467-9334-4134-9d58-6f615aff760f" />
+
+<img width="1796" height="931" alt="Screenshot 2025-07-25 043804" src="https://github.com/user-attachments/assets/de51dfe1-b506-4278-a70a-e232759359ca" />
+
+<img width="1882" height="937" alt="Screenshot 2025-07-25 043929" src="https://github.com/user-attachments/assets/1fdf2aaa-cca2-4cbb-8155-51fcc1e9074b" />
+
+<img width="1794" height="929" alt="Screenshot 2025-07-25 043814" src="https://github.com/user-attachments/assets/43694521-b519-458e-9449-e1472c4597e1" />
+
+<img width="1826" height="855" alt="Screenshot 2025-07-25 044019" src="https://github.com/user-attachments/assets/0c435e3d-0bc3-49b6-93a0-bdefbf962281" />
+
+<img width="1822" height="945" alt="Screenshot 2025-07-25 044055" src="https://github.com/user-attachments/assets/7d7b9794-4886-49e0-b037-ba6e092801f5" />
+
 ---
 ## 🧠 About the Project
 
